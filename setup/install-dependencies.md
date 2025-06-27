@@ -39,4 +39,4 @@ hca_id: mlx5_0
     transport:          InfiniBand (or Ethernet with RoCE)
 ```
 
-## 4. Download OSU Micro-Benchmarks (MPI Tests).
+## 4. Download OSU Micro-Benchmarks (MPI Tests)..
