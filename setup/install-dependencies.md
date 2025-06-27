@@ -26,7 +26,7 @@ mpirun --version
 
 ## 3. Install RDMA and OFED Tools
 ```bash
-sudo apt install rdma-core ibverbs-utils infiniband-diags perftest -y
+sudo apt install rdma-core ibverbs-utilsinfiniband-diags perftest -y
 ```
 
 ### Verify
@@ -39,4 +39,4 @@ hca_id: mlx5_0
     transport:          InfiniBand (or Ethernet with RoCE)
 ```
 
-## 4. Download OSU Micro-Benchmarks (MPI Tests)
+## 4. Download OSU Micro-Benchmarks (MPI Tests).
